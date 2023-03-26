@@ -1,0 +1,9 @@
+@import "src/styles.scss";
+
+.content{
+    @include content()
+}
+
+.navbar{
+    @include navbar
+}
