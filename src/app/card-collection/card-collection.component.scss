@@ -1,0 +1,13 @@
+@import "src/styles.scss";
+
+.content{
+    @include content()
+}
+
+.principal-title{
+    @include principal-title(30px)
+}
+
+
+
+
