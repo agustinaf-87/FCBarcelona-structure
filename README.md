@@ -1,4 +1,5 @@
-# Emulating FCBarcelona web structure
+# Emulating FCBarcelona's![fcbarcelona-google-chrome-2023-03-26-22-25-43_SvJ3q0zS](https://user-images.githubusercontent.com/85511042/227870748-16bc55df-2cec-409a-82fc-9d23ff1197b3.gif)
+ web structure
 
 The main goal of this proyect was to aply in a simple way the structure of the following page: `https://www.fcbarcelona.es/es/futbol/primer-equipo/jugadores`
 
