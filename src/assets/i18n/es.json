@@ -1,0 +1,36 @@
+{
+    "main_title": "Las mujeres más influyentes de la historia",
+    "title": "Mujeres",
+    "headerItem1": "Inicio",
+    "headerItem2": "Quienes Somos",
+    "nationalityLabel": "Nacionalidad",
+    "fieldLabel": "Ámbito",
+    "womenNationality":{
+        "usa": "Estadounidense",
+        "mexican": "Mejicana",
+        "french": "Francesa",
+        "english": "Inglesa",
+        "polish": "Polaca", 
+        "german": "Alemana",
+        "chilean": "Chilena",
+        "indean": "India",
+        "italian": "Italiana",
+        "pakistani": "Pakistaní"
+    },
+    "womenField": {
+        "software_engineer": "Ingeniera de Software",
+        "art": "Arte",
+        "fashion": "Moda",
+        "literature": "Literatura",
+        "aviation": "Aviation",
+        "government": "Government",
+        "science": "Ciencia", 
+        "policits": "Política",
+        "activist": "Activista",
+        "civil_rights_activist": "Activista de Derechos Civiles",
+        "feminist_activist": "Activista Feminista",
+        "actress": "Actriz"
+    }
+    
+}
+

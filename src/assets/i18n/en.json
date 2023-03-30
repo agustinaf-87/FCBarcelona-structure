@@ -1,0 +1,36 @@
+{
+    "main_title": "Most influent women in history",
+    "title": "Women",
+    "headerItem1": "Home",
+    "headerItem2": "About us",
+    "nationalityLabel": "Nationality",
+    "fieldLabel": "Field",
+    "womenNationality":{
+        "usa": "USA",
+        "mexican": "Mexican",
+        "french": "French",
+        "english": "English",
+        "polish": "Polish", 
+        "german": "German",
+        "chilean": "Chilean",
+        "indean": "Indian",
+        "italian": "Italian",
+        "pakistani": "Pakistani"
+    },
+    "womenField": {
+        "software_engineer": "Software Engineer",
+        "art": "Art",
+        "fashion": "Fashion",
+        "literature": "Literature",
+        "aviation": "Aviation",
+        "government": "Government",
+        "science": "Science", 
+        "policits": "Politic",
+        "activist": "Activist",
+        "civil_rights_activist": "Civil Rights Activist", 
+        "feminist_activist": "Feminist Activist",
+        "actress": "Actress"
+
+    }
+
+}

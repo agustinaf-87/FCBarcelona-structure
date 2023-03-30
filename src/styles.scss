@@ -157,6 +157,11 @@ $font-family-text: "Nunito Sans", sans-serif;
   }
 
 }
+@mixin form-control($color){
+background-color: $secondary;
+color:$color;
+
+}
 
 @media (min-width: 768px) {
   .col-md-6 {
