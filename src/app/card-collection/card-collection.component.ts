@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { TranslateService } from '@ngx-translate/core';
 import { WomenService } from 'src/assets/data/women.service';
 
 
@@ -9,8 +10,16 @@ import { WomenService } from 'src/assets/data/women.service';
 })
 export class CardCollectionComponent {
 
-  constructor(private womenService: WomenService = new WomenService()){
+  constructor(private womenService: WomenService = new WomenService(), public translate: TranslateService, 
+  ){
 
   }
+  
   women = this.womenService.getAllWomen(); 
+
+  womenEn = this.womenService.getAllWomenEn(); 
+
+  currentLang(){
+    return this.translate.currentLang
+  }
 }
